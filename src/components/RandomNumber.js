@@ -13,7 +13,7 @@ function RandomNumber() {
       <h1>Random Number Generation</h1>
       <button onClick={change}>Generate</button>
       <span><h1>Random Number is: </h1></span>
-      <p className="num1">{rnumber}</p>
+      <h1 className="num">{rnumber}</h1>
     </div>
   )
 }

@@ -34,27 +34,15 @@ button:hover{
     border-color: rgb(255, 255, 255);
 }
 span{
-    display: flex;
-    justify-content: center;
-    color: rgb(138, 132, 132);
+    color: rgb(120, 122, 122);
 }
 .num{
-    width: 45px;
-    padding: 1px;
-    margin-left: 5px;
-    --color: rgb(255, 0, 157);
-    color: white;
-    font-size: xx-large;
-    background-color: blueviolet;
-    border-radius: 50%;
-}
-.num1{
     justify-content: center;
     display: inline-flex;
     width: 220px;
     height: 220px;
     padding: 5px 5px;
-    margin-left: 5px;
+    margin-top: 10px;
     color: white;
     font-size: 150px;
     background-color: blueviolet;
